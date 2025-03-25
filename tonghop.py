@@ -1,0 +1,1 @@
+print("trong nay chua co gi")
